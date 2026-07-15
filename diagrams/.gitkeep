@@ -1,0 +1,11 @@
+# Diagrams Directory
+
+This directory contains all visual diagrams for the MIT Networking Project submission.
+
+## Contents:
+- Diagram_1_PowerFlow.png - Power Flow Architecture (Energy Routing)
+- Diagram_2_DailyLoadProfile.png - Daily Load Profile (Three Operational Scenarios)
+- Diagram_3_BatterySOC.png - Battery State of Charge (5-Day Autonomy Scenarios)
+
+## Usage:
+All diagrams are exported at 300 DPI for PDF embedding.
